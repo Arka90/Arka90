@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **JAVA , Web development ,DSA**
 
-- 📫 How to reach me **skarka90@gmail.com**
+- 📫 How to reach me **skarka1502@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
