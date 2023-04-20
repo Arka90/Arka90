@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **C++ , JAVA , Web development ,DSA**
+- 💬 Ask me about **JAVA , Web development ,DSA**
 
 - 📫 How to reach me **skarka90@gmail.com**
 
